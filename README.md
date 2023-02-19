@@ -44,4 +44,6 @@ console.log(ans);
 // 复制 ans 到 data.json 文件中
 ```
 
+提取的映射关系在 [data.json](data.json) 文件中
+
 其他的就是简单的 Alfred Workflow 的开发了
