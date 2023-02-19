@@ -1,6 +1,6 @@
 # TailwindPx2TwValue
 
-<img src="screenshot.png" width="500">
+<img src="screenshot.png" width="694">
 
 ## 使用
 
